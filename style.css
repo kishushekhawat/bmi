@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+}
+.input{
+    width: 50%;
+ border: 1px solid lightgray;
+ border-radius: 12px;
+ padding: 8px 14px;
+ margin-bottom: 12px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 8px 14px;
+     border: none;
+    border-radius: 12px;
+    width: 100%;
+    font-weight: bold;
+}
